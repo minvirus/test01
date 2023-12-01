@@ -11,10 +11,19 @@
 # 제목1
 ## 제목2
 ### 제목3
-```
+```java
 public class Test{
  public static void main(string[] arg){
   system.out.println("hello");
 }
+}
+```
+```sql
+SELECT *FROM TBL_BOARD;
+```
+
+```javaScript
+function test(){
+ console.log('hello');
 }
 ```
